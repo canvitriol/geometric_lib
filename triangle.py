@@ -1,5 +1,4 @@
 def area(a, h): 
-<<<<<<< HEAD
     ''' 
     Возвращает площадь треугольника.
         
@@ -15,11 +14,10 @@ def area(a, h):
 def perimeter(a, b, c): 
     ''' Принимает числа a, b и c, выозвращает их сумму '''
     return a + b + c
-=======
+
     return a * h / 2 
 
 def perimeter(a, b, c): 
     return a + b + c 
 
   
->>>>>>> 8009d4001bdef006a2d2a64cf4c5216cec252867
