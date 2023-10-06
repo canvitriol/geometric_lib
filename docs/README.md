@@ -84,7 +84,7 @@
 
 
 
-     # Discription of the solution описание решения
+# Discription of the solution описание решения
 
  # файл rectangle.py
  - присваиваем значение целых чисел  переменным а и b
